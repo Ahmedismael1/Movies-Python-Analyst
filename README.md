@@ -15,6 +15,8 @@
 - company: Production company of the movie
 - runtime: Duration of the movie
 
+## [Movie Analysis with Python](https://github.com/Ahmedismael1/Movies-Python-Analyst/blob/main/Movies_Analyst.ipynb)
+
 ## By analyzing this data, you can gain insights into various aspects of the movie industry, such as:
 1) Popular movie genres and their trends over time
 2) Relationship between budget, gross, and critical reception
